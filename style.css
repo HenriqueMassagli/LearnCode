@@ -89,8 +89,6 @@ body {
 @media (max-width: 1051px) {
   .apresentacao {
     flex-direction: column;
-    padding: 15px 0px;
-    
   }
 
   .apresentacao__imagens {
@@ -149,7 +147,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     place-items: center;
-    padding: 15%;
+    
   }
 
   .apresentacao__imagens img {
@@ -162,7 +160,7 @@ body {
 @media (max-width: 585px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 0%;
+
   }
 }
 
@@ -170,7 +168,7 @@ body {
 @media (max-width: 478px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 80%;
+    
   }
 
   .apresentacao__link__explorar {
@@ -182,7 +180,7 @@ body {
 @media (max-width: 391px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 110%;
+   
     margin: auto;
   }
 }
@@ -191,7 +189,7 @@ body {
 @media (max-width: 328px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 130%;
+    
     margin: auto;
   }
 }
@@ -200,7 +198,7 @@ body {
 @media (max-width: 281px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 150%;
+ 
     margin: auto;
   }
 }
@@ -209,7 +207,7 @@ body {
 @media (max-width: 250px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 180%;
+   
     margin: auto;
   }
 }
@@ -218,7 +216,7 @@ body {
 @media (max-width: 225px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 190%;
+    
     margin: auto;
   }
 
