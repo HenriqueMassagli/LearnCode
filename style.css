@@ -90,7 +90,7 @@ body {
   .apresentacao {
     flex-direction: column;
     padding: 15px 0px;
-    margin: auto;
+    
   }
 
   .apresentacao__imagens {
@@ -162,7 +162,7 @@ body {
 @media (max-width: 585px) {
   .apresentacao__imagens {
     grid-template-columns: repeat(4, 1fr);
-    padding: 30%;
+    padding: 0%;
   }
 }
 
