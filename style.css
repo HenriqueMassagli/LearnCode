@@ -94,7 +94,7 @@ body {
   .apresentacao__imagens {
     display: grid;
     flex-direction: column;
-    padding: 15px;
+
   }
 
   .destaque-titulo-design {
