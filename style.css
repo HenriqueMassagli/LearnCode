@@ -81,7 +81,7 @@ body {
 }
 
 .apresentacao__imagens img {
-  width: 100%; /* Ajuste para ocupar 100% da largura da célula do grid */
+  max-width: 100%;
   height: auto; /* Altura automática para manter a proporção */
   border-radius: 40px;
   object-fit: cover; /* Quando uma imagem não tem as mesmas proporções do espaço que a contém, o object-fit define como ela será redimensionada. O valor cover faz com que a imagem preencha completamente o espaço disponível sem deformar, cortando partes da imagem se necessário. */
@@ -140,35 +140,19 @@ body {
   }
 }
 
+@media (max-width: 930px) {
+  .apresentacao__conteudo__texto {
+    font-size: 1.2rem;
+  }
+}
+
 /* Ajustes para telas menores que 766px */
 @media (max-width: 765px) {
   .apresentacao__imagens {
-    padding: 10vh 2vw;
     margin: 0;
   }
-}
 
-/* Ajustes para telas menores que 632px */
-@media (max-width: 632px) {
-  .apresentacao__imagens {
-    padding: 17vh 2vw;
-    margin: 0;
+  .apresentacao__conteudo__texto {
+    font-size: 1rem;
   }
 }
-
-/* Ajustes para telas menores que 583px */
-@media (max-width: 584px) {
-  .apresentacao__imagens {
-    padding: 23vh 2vw;
-    margin: 0;
-  }
-}
-
-/* Ajustes para telas menores que 542px */
-@media (max-width: 542px) {
-  .apresentacao__imagens {
-    padding: 32vh 2vw;
-    margin: 0;
-  }
-}
-
