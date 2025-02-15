@@ -140,89 +140,35 @@ body {
   }
 }
 
-/* Ajustes para telas menores que 933px */
-@media (max-width: 933px) {
-  .apresentacao__conteudo__texto {
-  }
-}
-
 /* Ajustes para telas menores que 766px */
-@media (max-width: 766px) {
+@media (max-width: 765px) {
   .apresentacao__imagens {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    place-items: center;
-  }
-
-  .apresentacao__imagens img {
-    width: 100%;
-    height: auto;
+    padding: 10vh 2vw;
+    margin: 0;
   }
 }
 
-/* Ajustes para telas menores que 585px */
-@media (max-width: 585px) {
+/* Ajustes para telas menores que 632px */
+@media (max-width: 632px) {
   .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
+    padding: 17vh 2vw;
+    margin: 0;
   }
 }
 
-/* Ajustes para telas menores que 478px */
-@media (max-width: 478px) {
+/* Ajustes para telas menores que 583px */
+@media (max-width: 584px) {
   .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-  .apresentacao__link__explorar {
-    font-size: 1rem;
+    padding: 23vh 2vw;
+    margin: 0;
   }
 }
 
-/* Ajustes para telas menores que 391px */
-@media (max-width: 391px) {
+/* Ajustes para telas menores que 542px */
+@media (max-width: 542px) {
   .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-
-    margin: auto;
+    padding: 32vh 2vw;
+    margin: 0;
   }
 }
 
-/* Ajustes para telas menores que 328px */
-@media (max-width: 328px) {
-  .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-
-    margin: auto;
-  }
-}
-
-/* Ajustes para telas menores que 281px */
-@media (max-width: 281px) {
-  .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-
-    margin: auto;
-  }
-}
-
-/* Ajustes para telas menores que 250px */
-@media (max-width: 250px) {
-  .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-
-    margin: auto;
-  }
-}
-
-/* Ajustes para telas menores que 225px */
-@media (max-width: 225px) {
-  .apresentacao__imagens {
-    grid-template-columns: repeat(4, 1fr);
-
-    margin: auto;
-  }
-
-  .apresentacao__link__explorar {
-    font-size: 0.8rem;
-  }
-}
