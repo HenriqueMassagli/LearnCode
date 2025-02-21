@@ -64,7 +64,7 @@
   Quer contribuir com melhorias? Siga os passos abaixo:
 </p>
 
-<ul align="center" style="list-style: none; padding: 0;">
+<ul align="center">
   <li>🔹 Faça um fork do repositório 🍴</li>
   <li>🔹 Crie uma branch para a nova funcionalidade:</li>
   <li><code>git checkout -b minha-feature</code></li>
