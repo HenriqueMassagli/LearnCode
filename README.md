@@ -65,12 +65,12 @@
 </p>
 
 <ul align="center">
-  <li>🔹 Faça um fork do repositório 🍴</li>
-  <li>🔹 Crie uma branch para a nova funcionalidade:</li>
-  <li><code>git checkout -b minha-feature</code></li>
-  <li>🔹 Commit suas mudanças:</li>
-  <li><code>git commit -m 'Adicionando nova feature'</code></li>
-  <li>🔹 Envie as alterações para o repositório remoto:</li>
-  <li><code>git push origin minha-feature</code></li>
-  <li>🔹 Abra um Pull Request e aguarde a revisão 🚀</li>
+ 🔹 Faça um fork do repositório 🍴
+ 🔹 Crie uma branch para a nova funcionalidade:
+  <code>git checkout -b minha-feature</code>
+ 🔹 Commit suas mudanças:</li>
+  <code>git commit -m 'Adicionando nova feature'</code>
+ 🔹 Envie as alterações para o repositório remoto:
+  <code>git push origin minha-feature</code>
+ 🔹 Abra um Pull Request e aguarde a revisão 🚀
 </ul>
