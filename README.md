@@ -64,7 +64,7 @@
   Quer contribuir com melhorias? Siga os passos abaixo:
 </p>
 
-<ol align="center" style="list-style: none; padding: 0;">
+<ul align="center" style="list-style: none; padding: 0;">
   <li>🔹 Faça um fork do repositório 🍴</li>
   <li>🔹 Crie uma branch para a nova funcionalidade:</li>
   <li><code>git checkout -b minha-feature</code></li>
@@ -73,4 +73,4 @@
   <li>🔹 Envie as alterações para o repositório remoto:</li>
   <li><code>git push origin minha-feature</code></li>
   <li>🔹 Abra um Pull Request e aguarde a revisão 🚀</li>
-</ol>
+</ul>
