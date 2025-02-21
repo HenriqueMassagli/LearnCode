@@ -8,14 +8,14 @@
 
 <h3 align="center">🔹 Tecnologias utilizadas: HTML, CSS </h3>
 <h3 align="center">🔹 Objetivo: Facilitar o acesso às documentações oficiais de linguagens populares. </h3>
-
+---
 <h2 align="center">🎯 Funcionalidades </h2>
 
 <h3 align="center">✅ Interface moderna</h3>
 <h3 align="center">📱💻✅ Lista de linguagens de programação populares</h3>
 <h3 align="center">🖥️✅ Links diretos para a documentação oficial </h3>
 <h3 align="center">📚✅ Design atrativo e intuitivo 🎨 </h3>
-
+---
 <h2 align="center">📷 Demonstração </h2>
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/fc035e06-7bc1-4758-8763-656286d8d5c5" />
 
@@ -25,8 +25,8 @@
 
 <P align="center"> O projeto já está hospedado na Vercel, então você pode acessá-lo diretamente sem precisar rodá-lo localmente: </p>
 
-<h2 align="center">🔗 Acesse aqui </h2>
-https://learn-code-pied.vercel.app/
+<h2 align="center"> <A>  href="https://learn-code-pied.vercel.app/" target="_blank" rel="noopener noreferrer"🔗 Acesse aqui</A> </h2>
+
 
 <h2 align="center">📜 Contribuição</h2>
 
