@@ -15,7 +15,7 @@
 
 <h3 align="center">🔧 Tecnologias Utilizadas</h3>
 <p align="center">
-  <strong>HTML</strong> e <strong>CSS</strong> foram as tecnologias utilizadas para criar uma interface moderna e responsiva.
+  <strong>HTML</strong> e <strong>CSS</strong> foram as tecnologias utilizadas para criar uma interface moderna.
 </p>
 
 <h3 align="center">🎯 Objetivo</h3>
