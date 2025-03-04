@@ -75,21 +75,21 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /*4 colunas */
   grid-template-rows: repeat(4, auto); /*4 linhas*/
-  justify-content: center; /* Garante que as imagens fiquem centralizadas no grid */
+  justify-content: center;
   gap: 20px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /*efeito de transição das imagens*/
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
 .apresentacao__imagens img {
   max-width: 100%;
-  height: auto; /* Altura automática para manter a proporção */
+  height: auto; 
   border-radius: 40px;
   object-fit: cover; /* Quando uma imagem não tem as mesmas proporções do espaço que a contém, o object-fit define como ela será redimensionada. O valor cover faz com que a imagem preencha completamente o espaço disponível sem deformar, cortando partes da imagem se necessário. */
 }
 
 .apresentacao__imagens img:hover {
   transform: scale(1.1); /* Aumenta 10% do tamanho original */
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Adiciona uma leve sombra */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
 }
 
 @media (max-width: 1051px) {
